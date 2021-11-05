@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alinani Simbeye a Java and 
-- 👀 I’m interested in Mobile And Web Programming (Mostly in JAVA and Php back-end -- pure JS front- end)
-- 🌱 I’m currently learning Kotlin Android and ReactJS... (diversifying)
+- 👋 Hi, I’m Alinani Simbeye a Software engineer  
+- 👀 I’m currently build Desktop Applications / Android Mobile Applications And Web Programming Projects 
+- 🌱 I’m Specialiaze in the following Languages Java, Kotlin, Javascript, PHP, Python and web scripting languages HTML/CSS... 
 - 💞️ I’m looking to collaborate on anyone who is interested to build great innovate software
 - 📫 How to reach me ... whatsapp me +260965062701 or Email me asimbeye35@gmail.com
 
